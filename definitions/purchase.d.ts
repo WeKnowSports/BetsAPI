@@ -1,7 +1,7 @@
-declare module "betslip-purchase"
+declare module "betting-purchase"
 {
-    import {ISelection} from "betslip-selection";
-    import {IBetInfo} from "betslip-bet";
+    import {ISelection} from "betting-selection";
+    import {IBetInfo} from "betting-bet";
 
     /** Current status of purchase */
     export const enum PurchaseStatus 

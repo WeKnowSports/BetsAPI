@@ -1,4 +1,4 @@
-declare module "betslip-bonuses"
+declare module "betting-bonuses"
 {
     /** Base bonus interface */
     interface IBonusInfo

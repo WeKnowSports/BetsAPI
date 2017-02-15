@@ -1,7 +1,7 @@
-declare module "betslip-bet"
+declare module "betting-bet"
 {
     //import * as Selections from "betslip-selection";
-    import { IBonus } from "betslip-bonuses";
+    import { IBonus } from "betting-bonuses";
 
     /** Information for BuyPoints for single bet */
     export interface IBuyPointsInfo 

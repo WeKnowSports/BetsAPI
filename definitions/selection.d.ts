@@ -1,6 +1,6 @@
-declare module "betslip-selection"
+declare module "betting-selection"
 {
-    import { IScore } from "betslip-scores";
+    import { IScore } from "betting-scores";
     
     export const enum TeamMapping { None = 0, Home = 1, Away = 2}
 

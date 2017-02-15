@@ -1,4 +1,4 @@
-declare module "betslip-scores"
+declare module "betting-scores"
 {
     /** Tennis score information */
     export interface ITennisScore
